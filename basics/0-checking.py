@@ -13,3 +13,4 @@ print("My Python version is:",platform.python_version())
 print("My OpenCV version is:",cv2.__version__)
 
 print("---------------------------------------")
+a = input()
